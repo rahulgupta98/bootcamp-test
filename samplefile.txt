@@ -1,0 +1,1 @@
+thisnis a sample text and this file is to try out the git
